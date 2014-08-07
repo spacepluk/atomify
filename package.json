@@ -30,8 +30,8 @@
   ],
   "license": "MIT",
   "dependencies": {
-    "atomify-css": "^2.0.0",
-    "atomify-js": "^2.0.0",
+    "atomify-css": "git://github.com/spacepluk/atomify-css#tmp",
+    "atomify-js": "git://github.com/spacepluk/atomify-js#tmp",
     "browser-sync": "^0.9.1",
     "colors": "^0.6.2",
     "gaze": "^0.5.1",
